@@ -23,7 +23,7 @@ A single-page quote collection with a split-screen layout. Left side: sticky cat
 
  Live Demo
  
-[https://thecollection-c9q9ez8r7-najmahares-projects.vercel.app/](url)
+https://thecollection-c9q9ez8r7-najmahares-projects.vercel.app/
 
 
 
